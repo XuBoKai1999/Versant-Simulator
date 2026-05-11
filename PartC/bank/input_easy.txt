@@ -1,0 +1,199 @@
+Female: Did you finish your homework?
+Male: Yes, I completed it last night.
+Q: When did the man finish his homework?
+A: Last night
+
+Male: What are you doing this weekend?
+Female: I’m visiting my grandparents.
+Q: What will the woman do this weekend?
+A: Visit her grandparents
+
+Female: Where is your phone?
+Male: I left it in the car.
+Q: Where is the man’s phone?
+A: In the car
+
+Male: Are you hungry?
+Female: Yes, I haven’t eaten all day.
+Q: How does the woman feel?
+A: Hungry
+
+Female: What time is the meeting?
+Male: It starts at ten in the morning.
+Q: When does the meeting start?
+A: At 10 a.m.
+
+Male: Did you watch the game yesterday?
+Female: No, I was too busy.
+Q: Did the woman watch the game?
+A: No
+
+Female: Can you help me carry this box?
+Male: Sure, it looks heavy.
+Q: What does the woman want?
+A: Help with a box
+
+Male: Where are you going now?
+Female: I’m heading to the supermarket.
+Q: Where is the woman going?
+A: To the supermarket
+
+Female: How was your trip?
+Male: It was great, I had a lot of fun.
+Q: How was the man’s trip?
+A: It was enjoyable
+
+Male: Do you like coffee or tea?
+Female: I prefer tea.
+Q: What does the woman prefer?
+A: Tea
+
+Female: Why are you late?
+Male: The bus was delayed.
+Q: Why is the man late?
+A: The bus was late
+
+Male: Is this your bag?
+Female: Yes, it’s mine.
+Q: Whose bag is it?
+A: The woman’s
+
+Female: What are you reading?
+Male: A book about history.
+Q: What is the man reading?
+A: A history book
+
+Male: Did you call Sarah?
+Female: Yes, I talked to her this morning.
+Q: When did the woman talk to Sarah?
+A: This morning
+
+Female: Do you need a ride?
+Male: No, I can walk home.
+Q: How will the man go home?
+A: On foot
+
+Male: What did you buy?
+Female: I bought some fruits and bread.
+Q: What did the woman buy?
+A: Fruits and bread
+
+Female: Is it raining outside?
+Male: Yes, it started a few minutes ago.
+Q: What is the weather like?
+A: It’s raining
+
+Male: Where do you work?
+Female: I work at a bank.
+Q: Where does the woman work?
+A: At a bank
+
+Female: Did you finish the movie?
+Male: Yes, I watched it till the end.
+Q: Did the man finish the movie?
+A: Yes
+
+Male: What time do you wake up?
+Female: I usually wake up at seven.
+Q: When does the woman wake up?
+A: At seven
+
+Female: Did you eat breakfast?
+Male: Yes, I had some toast and coffee.
+Q: What did the man have for breakfast?
+A: Toast and coffee
+
+Male: Where are you going now?
+Female: I’m going to the post office.
+Q: Where is the woman going?
+A: To the post office
+
+Female: Is your brother at home?
+Male: No, he went out this morning.
+Q: Where is the man’s brother?
+A: He went out
+
+Male: What time does the movie start?
+Female: It begins at seven.
+Q: When does the movie start?
+A: At seven
+
+Female: Do you like this song?
+Male: Yes, it’s one of my favorites.
+Q: How does the man feel about the song?
+A: He likes it
+
+Male: Did you finish your lunch?
+Female: No, I wasn’t very hungry.
+Q: Did the woman finish her lunch?
+A: No
+
+Female: Where did you put my book?
+Male: I left it on the table.
+Q: Where is the book?
+A: On the table
+
+Male: Are you busy right now?
+Female: No, I’m free at the moment.
+Q: Is the woman busy?
+A: No
+
+Female: Did you call your friend?
+Male: Yes, I spoke with him earlier.
+Q: Did the man call his friend?
+A: Yes
+
+Male: What are you drinking?
+Female: I’m having some tea.
+Q: What is the woman drinking?
+A: Tea
+
+Female: Is it cold outside?
+Male: Yes, you should wear a jacket.
+Q: What is the weather like?
+A: It’s cold
+
+Male: Did you buy the tickets?
+Female: Yes, I got them this morning.
+Q: When did the woman buy the tickets?
+A: This morning
+
+Female: Are you coming with us?
+Male: Yes, I’ll join you soon.
+Q: Is the man going with them?
+A: Yes
+
+Male: Where is your bag?
+Female: I left it in my room.
+Q: Where is the woman’s bag?
+A: In her room
+
+Female: Did you watch the news today?
+Male: No, I didn’t have time.
+Q: Did the man watch the news?
+A: No
+
+Male: What are you doing later?
+Female: I’m meeting a friend.
+Q: What will the woman do later?
+A: Meet a friend
+
+Female: Do you need help with that?
+Male: No, I can handle it.
+Q: Does the man need help?
+A: No
+
+Male: Are you ready to leave?
+Female: Yes, I’m ready now.
+Q: Is the woman ready?
+A: Yes
+
+Female: Did you clean the kitchen?
+Male: Yes, I finished it an hour ago.
+Q: When did the man finish cleaning?
+A: An hour ago
+
+Male: What did you buy at the store?
+Female: I bought some milk and bread.
+Q: What did the woman buy?
+A: Milk and bread

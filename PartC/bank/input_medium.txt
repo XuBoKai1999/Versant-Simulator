@@ -1,0 +1,449 @@
+Female: Did you enjoy the concert last night?
+Male: The music was great, but the seats were too far from the stage.
+Q: Why wasn’t the man fully satisfied with the concert?
+A: His seat was too far away
+
+Male: Are you going to drive to work today?
+Female: I was planning to, but my car wouldn’t start this morning.
+Q: Why won’t the woman drive to work?
+A: Her car has a problem
+
+Female: Have you finished reading the book I gave you?
+Male: Not yet, I’ve been busy preparing for exams.
+Q: Why hasn’t the man finished the book?
+A: He is studying for exams
+
+Male: Did you like the restaurant?
+Female: The food was good, but the service was slow.
+Q: What problem did the woman mention about the restaurant?
+A: The service was slow
+
+Female: Why didn’t you answer my call earlier?
+Male: I was in a meeting and couldn’t check my phone.
+Q: Why didn’t the man answer the call?
+A: He was in a meeting
+
+Male: Are you coming to the party tonight?
+Female: I might, but I still have some work to finish.
+Q: What may prevent the woman from going to the party?
+A: She has work to do
+
+Female: Did you buy the jacket?
+Male: No, it looked nice but it was too expensive.
+Q: Why didn’t the man buy the jacket?
+A: It cost too much
+
+Male: Why are you taking a taxi instead of the bus?
+Female: I’m running late and the bus takes longer.
+Q: Why did the woman choose a taxi?
+A: To save time
+
+Female: How was your flight?
+Male: It was delayed, but everything else went smoothly.
+Q: What issue did the man experience during his trip?
+A: The flight was delayed
+
+Male: Did you finish cleaning your room?
+Female: I cleaned most of it, but I didn’t have time to organize the desk.
+Q: What part of the room did the woman not finish?
+A: The desk area
+
+Female: Why are you wearing a jacket? It’s warm outside.
+Male: It was cold this morning when I left home.
+Q: Why is the man wearing a jacket?
+A: It was cold earlier
+
+Male: Did you enjoy the movie?
+Female: It started slowly, but it got interesting later.
+Q: How did the woman feel about the movie overall?
+A: It improved later
+
+Female: Are you going to eat lunch now?
+Male: I’ll wait a bit since I just had a snack.
+Q: Why is the man delaying lunch?
+A: He already ate something
+
+Male: Why didn’t you go jogging today?
+Female: I was going to, but it started raining.
+Q: Why didn’t the woman go jogging?
+A: It rained
+
+Female: Did you fix your computer?
+Male: Not completely, but it’s working better now.
+Q: What is the condition of the man’s computer?
+A: It’s improved but not fully fixed
+
+Male: Did you bring your ID for the library?
+Female: Yes, but I forgot my student card at home.
+Q: What did the woman forget?
+A: Her student card
+
+Female: How was the weather during your trip?
+Male: It rained the first day, but the rest was sunny.
+Q: What was the weather like overall?
+A: Mostly sunny
+
+Male: Are you going to cook tonight?
+Female: I planned to, but I might just order food instead.
+Q: What might the woman do instead of cooking?
+A: Order food
+
+Female: Did you fix the printer?
+Male: Not yet, I need to buy some ink first.
+Q: Why hasn’t the printer been fixed?
+A: There’s no ink
+
+Male: Why are you carrying so many bags?
+Female: I stopped by the store on my way home.
+Q: Why does the woman have many bags?
+A: She went shopping
+
+Female: Are you watching the game later?
+Male: I want to, but I have to finish a report first.
+Q: What might stop the man from watching the game?
+A: His report
+
+Male: Did you enjoy the class today?
+Female: It was interesting, but a bit too fast.
+Q: What was the problem with the class?
+A: It moved too quickly
+
+Female: Why didn’t you take the bus?
+Male: I missed it, so I had to walk.
+Q: Why did the man walk?
+A: He missed the bus
+
+Male: Are you ready for the test tomorrow?
+Female: I’ve studied, but I still feel nervous.
+Q: How does the woman feel about the test?
+A: Nervous
+
+Female: Did you see the new movie?
+Male: Yes, but I didn’t understand the ending.
+Q: What confused the man?
+A: The ending
+
+Male: Why are you late today?
+Female: The train was slower than usual.
+Q: Why is the woman late?
+A: The train was slow
+
+Female: Did you clean your room?
+Male: I cleaned the floor, but not the shelves.
+Q: What part did the man not clean?
+A: The shelves
+
+Male: Are you going out tonight?
+Female: Maybe, if I finish my homework in time.
+Q: What condition affects the woman’s plan?
+A: Finishing homework
+
+Female: How was the food at the café?
+Male: It tasted good, but it was a bit cold.
+Q: What issue did the man mention?
+A: The food was cold
+
+Male: Did you call the doctor?
+Female: Yes, but the office was already closed.
+Q: Why couldn’t the woman talk to the doctor?
+A: The office was closed
+
+Female: Did you finish the project?
+Male: Almost, I just need to check a few details tonight.
+Q: What does the man still need to do?
+A: Review some details
+
+Male: Are you going to the gym later?
+Female: I was planning to, but I might be too tired after work.
+Q: What might stop the woman from going to the gym?
+A: She may be too tired
+
+Female: How was the traffic this morning?
+Male: It was heavy at first, but it cleared up after a while.
+Q: What happened to the traffic later?
+A: It became lighter
+
+Male: Did you talk to your professor?
+Female: Yes, and she said I could submit the paper tomorrow instead.
+Q: What did the professor allow the woman to do?
+A: Submit later
+
+Female: Why didn’t you join us for lunch?
+Male: I had already eaten before you called me.
+Q: Why didn’t the man join lunch?
+A: He had eaten already
+
+Male: Are you still planning to move next month?
+Female: Yes, unless something unexpected comes up.
+Q: What condition could change the woman’s plan?
+A: Something unexpected
+
+Female: Did you like the concert?
+Male: The band was great, but the sound quality wasn’t very good.
+Q: What problem did the man mention?
+A: Poor sound quality
+
+Male: Why are you leaving so early?
+Female: I finished my tasks faster than I expected.
+Q: Why is the woman leaving early?
+A: She finished early
+
+Female: Have you decided what to order?
+Male: Not yet, I’m still looking at the menu.
+Q: What is the man doing now?
+A: Choosing his food
+
+Male: Did you fix your bike?
+Female: I fixed the brakes, but the chain still needs work.
+Q: What part still needs fixing?
+A: The chain
+
+Female: Why didn’t you bring your jacket?
+Male: It looked warm when I left home.
+Q: Why did the man not bring a jacket?
+A: He thought it was warm
+
+Male: Are you going to watch the match tonight?
+Female: I’ll watch it if I don’t fall asleep first.
+Q: What might prevent the woman from watching the match?
+A: Falling asleep
+
+Female: Did you get the tickets?
+Male: Yes, but they were more expensive than I expected.
+Q: What surprised the man about the tickets?
+A: The price
+
+Male: How was your weekend?
+Female: It was relaxing, although I didn’t finish everything I planned.
+Q: What did the woman not do?
+A: Finish all her plans
+
+Male: Did you call the repair service?
+Female: I tried, but no one answered the phone.
+Q: Why couldn’t the woman reach the service?
+A: No one answered
+
+Female: Did you lock the door before leaving?
+Male: I think I did, but I can’t remember clearly now.
+Q: What is the man unsure about?
+A: Whether he locked the door
+
+Male: Are you going to take the exam this week?
+Female: Yes, unless I feel unprepared after reviewing tonight.
+Q: What might change the woman’s plan?
+A: Feeling unprepared
+
+Female: How was the restaurant you tried?
+Male: The food was decent, though the wait was longer than expected.
+Q: What issue did the man experience?
+A: Long waiting time
+
+Male: Did you manage to finish the book?
+Female: Not completely, but I understand most of the story.
+Q: What has the woman done with the book?
+A: Read most of it
+
+Female: Why didn’t you join the game earlier?
+Male: I was finishing another task and didn’t notice the time.
+Q: Why was the man late to the game?
+A: He lost track of time
+
+Male: Are you still thinking of buying that laptop?
+Female: I am, but I want to compare a few more options first.
+Q: What is the woman doing before buying?
+A: Comparing options
+
+Female: Did the package arrive on time?
+Male: It came a bit late, but nothing was damaged.
+Q: What happened with the delivery?
+A: It was delayed
+
+Male: Why are you carrying an umbrella today?
+Female: The forecast mentioned a chance of rain later.
+Q: Why did the woman bring an umbrella?
+A: Rain is expected
+
+Female: Did you enjoy the lecture this morning?
+Male: It was useful, although some parts were hard to follow.
+Q: What difficulty did the man have?
+A: Some parts were unclear
+
+Male: Are you going to attend the meeting tomorrow?
+Female: I’ll go if my schedule doesn’t change.
+Q: What condition affects the woman’s attendance?
+A: Her schedule
+
+Female: Why didn’t you reply to the email?
+Male: I saw it, but I wanted to gather more information first.
+Q: Why did the man delay his reply?
+A: He needed more information
+
+Male: Did you complete the assignment on time?
+Female: I submitted it, but just before the deadline.
+Q: When did the woman submit the assignment?
+A: At the last moment
+
+Female: How was your workout today?
+Male: It was shorter than usual because I arrived late.
+Q: Why was the workout shorter?
+A: He started late
+
+Male: Are you planning to travel this summer?
+Female: I’d like to, but it depends on my budget.
+Q: What limits the woman’s travel plan?
+A: Her budget
+
+Female: Did you find your keys?
+Male: Yes, they were in my bag all along.
+Q: Where were the man’s keys?
+A: In his bag
+
+Male: Did you bring your charger with you?
+Female: No, I thought my battery would last longer.
+Q: Why might the woman have a problem later?
+A: Her phone may run out of battery
+
+Female: How was the movie you watched?
+Male: It was interesting, though a bit confusing at the end.
+Q: What did the man find difficult about the movie?
+A: The ending
+
+Male: Are you going to join the study group tonight?
+Female: I want to, but I still have some tasks to finish first.
+Q: What might stop the woman from joining?
+A: Unfinished tasks
+
+Female: Did you enjoy the meal?
+Male: Yes, but it was spicier than I expected.
+Q: What surprised the man about the meal?
+A: It was very spicy
+
+Male: Why didn’t you take a photo of the view?
+Female: I forgot my camera at home.
+Q: Why didn’t the woman take a photo?
+A: She had no camera
+
+Female: Have you cleaned your desk yet?
+Male: I organized the papers, but I didn’t wipe the surface.
+Q: What part did the man not clean?
+A: The desk surface
+
+Male: Are you going out later?
+Female: Maybe, if the weather improves.
+Q: What affects the woman’s plan?
+A: The weather
+
+Female: Did you talk to your friend about the trip?
+Male: Yes, but he hasn’t made a decision yet.
+Q: What is the friend’s situation?
+A: He hasn’t decided
+
+Male: How was your morning?
+Female: It started well, but I got delayed on my way here.
+Q: What problem did the woman have?
+A: She was delayed
+
+Female: Why didn’t you answer the phone earlier?
+Male: I was driving and couldn’t pick it up.
+Q: Why didn’t the man answer?
+A: He was driving
+
+Male: Did you like the new café?
+Female: It was nice, although the prices were a bit high.
+Q: What concern did the woman mention?
+A: It was expensive
+
+Female: Are you ready for the presentation?
+Male: Almost, I just need to practice a bit more.
+Q: What does the man still need to do?
+A: Practice more
+
+Male: Did you fix the issue with your computer?
+Female: Partly, but it still freezes sometimes.
+Q: What is still wrong with the computer?
+A: It still freezes
+
+Female: Why didn’t you buy the shoes?
+Male: They fit well, but I didn’t like the color.
+Q: Why didn’t the man buy the shoes?
+A: He disliked the color
+
+Male: Did you meet your cousin yesterday?
+Female: I tried, but she canceled at the last minute.
+Q: Why didn’t the woman meet her cousin?
+A: The cousin canceled
+
+Female: Did you remember to water the plants?
+Male: I watered most of them, but I think I missed the one by the window.
+Q: Which plant might not have been watered?
+A: The one near the window
+
+Male: Are you going to take the earlier train tomorrow?
+Female: I’ll try to, but it depends on how quickly I finish packing.
+Q: What affects the woman’s plan?
+A: How fast she packs
+
+Female: How was your dinner last night?
+Male: It tasted great, although the portion was smaller than usual.
+Q: What did the man notice about the meal?
+A: It was small
+
+Male: Did you finish the online course?
+Female: Not yet, I still have two lessons left.
+Q: How much of the course remains?
+A: Two lessons
+
+Female: Why didn’t you bring your notebook?
+Male: I thought everything would be shared digitally today.
+Q: Why did the man not bring a notebook?
+A: He expected digital materials
+
+Male: Are you planning to go shopping later?
+Female: Maybe, if I don’t get too tired after work.
+Q: What might stop the woman from shopping?
+A: Being tired
+
+Female: Did you enjoy the park yesterday?
+Male: It was relaxing, but it got crowded in the afternoon.
+Q: What happened later in the park?
+A: It became crowded
+
+Male: Why didn’t you finish your meal?
+Female: I wasn’t very hungry to begin with.
+Q: Why didn’t the woman finish eating?
+A: She wasn’t hungry
+
+Female: Did you check the schedule for tomorrow?
+Male: Yes, but I’m still not sure about the meeting time.
+Q: What is the man uncertain about?
+A: The meeting time
+
+Male: Are you going to watch the show tonight?
+Female: I want to, but I might fall asleep early.
+Q: What might prevent the woman from watching?
+A: Falling asleep
+
+Female: How was your workout today?
+Male: It went well, though I had to stop early.
+Q: What did the man do during the workout?
+A: He ended it early
+
+Male: Did you bring enough money for the trip?
+Female: I think so, but I may need to withdraw more later.
+Q: What might the woman need to do?
+A: Get more cash
+
+Female: Why didn’t you call me back?
+Male: I saw your message late and thought it was too late to call.
+Q: Why didn’t the man return the call?
+A: It was too late
+
+Male: Did you clean the kitchen?
+Female: I washed the dishes, but I didn’t clean the floor.
+Q: What part was not cleaned?
+A: The floor
+
+Female: Are you ready to leave now?
+Male: Almost, I just need to grab my keys.
+Q: What does the man still need to do?
+A: Get his keys

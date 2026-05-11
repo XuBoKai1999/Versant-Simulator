@@ -1,0 +1,314 @@
+Female: I thought the gym would be empty this morning.
+Male: It usually is, but there’s a discount campaign this week.
+Female: That explains why all the machines were taken.
+Q: Why was the gym crowded?
+A: Because of a promotion
+
+Male: Did you return the book to Lisa?
+Female: I tried, but she left early today.
+Male: Then she might need it for tomorrow’s class.
+Q: What is likely true about Lisa?
+A: She probably needs the book soon
+
+Female: The restaurant looked nice online.
+Male: Yes, but the portions were surprisingly small.
+Female: No wonder people kept ordering extra dishes.
+Q: Why did customers order more food?
+A: The servings were too small
+
+Male: I heard you canceled your trip.
+Female: Only the beach part, since the weather changed.
+Male: So you're still traveling somewhere?
+Q: What did the woman change about her plan?
+A: She skipped the beach visit
+
+Female: Why didn’t you join the meeting?
+Male: I was there at first, but my connection kept dropping.
+Female: That must have been frustrating.
+Q: Why did the man leave the meeting?
+A: His internet was unstable
+
+Male: The movie got great reviews.
+Female: True, but it was too long for me to enjoy.
+Male: I guess not everyone values depth the same way.
+Q: What is the woman’s opinion of the movie?
+A: It felt too long
+
+Female: The cake looks perfect.
+Male: It should, after three failed attempts.
+Female: At least you figured it out in the end.
+Q: What can be inferred about the cake?
+A: It took several tries to succeed
+
+Male: You didn’t bring your umbrella again?
+Female: The forecast said it wouldn’t rain.
+Male: It also said that yesterday.
+Q: What does the man imply?
+A: The forecast isn’t reliable
+
+Female: I thought Tom would help us move.
+Male: He said he would, unless his shift changed.
+Female: I guess something came up then.
+Q: Why didn’t Tom help?
+A: His work schedule likely changed
+
+Male: Why are you taking the longer route home?
+Female: The usual road is closed for repairs.
+Male: That explains the traffic everywhere.
+Q: Why is the woman avoiding the usual route?
+A: It’s under construction
+
+Female: The store closed earlier than expected.
+Male: They probably ran out of staff today.
+Female: That would explain the empty shelves too.
+Q: What likely happened at the store?
+A: They had staffing issues
+
+Male: You seem quieter than usual.
+Female: I didn’t sleep well last night.
+Male: That explains why you skipped coffee too.
+Q: What can be inferred about the woman?
+A: She is tired
+
+Male: You didn’t bring your laptop today?
+Female: I thought I wouldn’t need it, but now the professor wants us to submit something in class.
+Q: Why might the woman have a problem?
+A: She didn’t bring what she needs
+
+Female: The store was closed when I got there.
+Male: That’s strange, it’s usually open until nine.
+Female: I guess the holiday hours are different.
+Q: Why was the store closed earlier than expected?
+A: Because of holiday hours
+
+Male: Did you manage to talk to Kevin?
+Female: Only briefly, he seemed in a hurry to leave.
+Male: Then it’s probably not the best time to ask him for help.
+Q: Why shouldn’t they ask Kevin for help now?
+A: He’s too busy
+
+Female: You look tired today.
+Male: I stayed up late finishing the report, and it still isn’t done.
+Q: What can be inferred about the man’s work?
+A: It’s incomplete
+
+Male: Why didn’t you take the earlier train?
+Female: I would have, but I didn’t expect the traffic to be that bad.
+Q: What caused the woman to miss the earlier train?
+A: Heavy traffic
+
+Female: Did the new phone meet your expectations?
+Male: It works well, but the battery doesn’t last as long as I hoped.
+Q: What is the man dissatisfied with?
+A: The battery life
+
+Male: I thought you were going to join us for dinner.
+Female: I planned to, but I wasn’t feeling well after work.
+Q: Why didn’t the woman go to dinner?
+A: She felt unwell
+
+Female: The room feels warmer than usual.
+Male: That’s because the air conditioner stopped working this morning.
+Q: Why is the room warmer?
+A: The cooling system failed
+
+Male: Have you finished the assignment?
+Female: Almost, but I’m still checking for mistakes.
+Q: What is the woman doing now?
+A: Reviewing her work
+
+Female: Why didn’t you reply to my message?
+Male: I saw it, but I wanted to think about it before answering.
+Q: Why did the man delay his reply?
+A: He needed time to consider
+
+Male: The line is much shorter now.
+Female: That’s because most people left after waiting too long.
+Q: Why is the line shorter?
+A: People gave up and left
+
+Female: I expected the test to be harder.
+Male: It wasn’t easy, but some questions were more straightforward than I thought.
+Q: How did the man feel about the test difficulty?
+A: It was manageable in parts
+
+Female: You didn’t bring your notes again?
+Male: I thought the lecture would be recorded, but it turns out today’s wasn’t.
+Q: Why might the man have trouble reviewing later?
+A: He has no notes and no recording
+
+Male: I heard you switched your workout time.
+Female: Only because the gym gets too crowded in the evening now.
+Male: So mornings are quieter?
+Q: Why did the woman change her schedule?
+A: To avoid crowds
+
+Female: Did you talk to the landlord about the noise?
+Male: I tried, but he said he hasn’t received any other complaints.
+Q: What can be inferred about the noise issue?
+A: It may not be widely reported
+
+Male: You ordered the large meal again?
+Female: I skipped lunch, so I figured I’d need more.
+Q: Why did the woman choose a large meal?
+A: She hadn’t eaten earlier
+
+Female: The bus arrived earlier than expected.
+Male: That’s unusual, it’s usually late at this hour.
+Q: What is implied about the bus schedule?
+A: It’s usually delayed
+
+Male: You didn’t seem interested during the presentation.
+Female: I understood the topic, but it repeated what we learned last week.
+Q: Why was the woman not engaged?
+A: The content was repetitive
+
+Female: I thought the sale would last longer.
+Male: It ended yesterday, right after the weekend rush.
+Q: Why did the woman miss the sale?
+A: It ended sooner than she expected
+
+Male: Why didn’t you bring your camera on the trip?
+Female: I planned to, but I ran out of space in my bag.
+Q: What prevented the woman from bringing her camera?
+A: Limited space
+
+Female: The meeting ended quickly today.
+Male: That’s because most of the decisions were made beforehand.
+Q: Why was the meeting short?
+A: Decisions were already made
+
+Male: You’re not using your new headphones anymore?
+Female: They sound great, but they’re uncomfortable after a while.
+Q: Why did the woman stop using the headphones?
+A: They’re uncomfortable
+
+Female: Did you manage to fix the leak?
+Male: Not really, I just reduced it for now.
+Q: What is the current condition of the leak?
+A: It’s still there but smaller
+
+Male: I thought you liked that café.
+Female: I do, but today the service was slower than usual.
+Q: Why might the woman not return soon?
+A: The service was slow
+
+Female: You didn’t respond to the group chat last night.
+Male: I saw the messages, but by the time I finished reading everything, the plan had already changed.
+Q: Why didn’t the man reply in the chat?
+A: The plan was already updated
+
+Male: I thought you were going to return the package today.
+Female: I was, but the post office closed earlier than I expected.
+Q: Why didn’t the woman return the package?
+A: The post office closed early
+
+Female: The new app looks complicated.
+Male: It does at first, but most features are optional anyway.
+Q: What does the man imply about the app?
+A: It’s not necessary to use everything
+
+Male: Why didn’t you sit with us during lunch?
+Female: I needed some quiet time after the morning meeting.
+Q: Why did the woman sit alone?
+A: She wanted some quiet time
+
+Female: You didn’t seem surprised by the result.
+Male: I had a feeling it would turn out this way after seeing the earlier data.
+Q: Why wasn’t the man surprised?
+A: He expected the outcome
+
+Male: Did you finish fixing your bike?
+Female: It’s working now, but I’m not sure how long it’ll last.
+Q: What can be inferred about the bike?
+A: It may not be fully reliable
+
+Female: Why didn’t you order dessert?
+Male: I was going to, but I realized I had already spent too much.
+Q: Why did the man skip dessert?
+A: He was concerned about cost
+
+Male: I heard the lecture was canceled.
+Female: Not exactly, it was just moved online at the last minute.
+Q: What actually happened to the lecture?
+A: It was moved online
+
+Female: You’re leaving already?
+Male: I finished what I needed, and staying longer won’t change anything.
+Q: Why is the man leaving early?
+A: There’s no reason to stay
+
+Male: Why didn’t you use the coupon?
+Female: I forgot about it until after I paid.
+Q: Why didn’t the woman use the coupon?
+A: She remembered too late
+
+Female: The room feels quieter today.
+Male: That’s because the construction next door has stopped for now.
+Q: Why is it quieter today?
+A: The construction paused
+
+Male: You didn’t bring your umbrella, even though it’s cloudy.
+Female: It hasn’t rained all week, so I took the risk.
+Q: Why did the woman leave her umbrella behind?
+A: She didn’t expect rain
+
+Male: You didn’t bring any snacks for the trip?
+Female: I thought we’d stop along the way, but it looks like there aren’t many stores on this route.
+Q: Why might the woman regret her decision?
+A: There are no places to buy food
+
+Female: The teacher didn’t mention the assignment today.
+Male: That’s because she expects us to remember it from last week.
+Q: Why didn’t the teacher talk about the assignment?
+A: She assumes students already know
+
+Male: I saw you leave early yesterday.
+Female: I wasn’t feeling well, so I didn’t think staying would help.
+Q: Why did the woman leave early?
+A: She felt sick
+
+Female: You didn’t comment during the discussion.
+Male: I had an idea, but it didn’t seem relevant at the time.
+Q: Why did the man stay silent?
+A: He thought his idea wasn’t useful
+
+Male: The line looks shorter now.
+Female: Only because they opened another counter just now.
+Q: Why did the line become shorter?
+A: Another counter opened
+
+Female: I thought you were going to sell your old laptop.
+Male: I was, but now I might keep it as a backup.
+Q: Why is the man reconsidering selling the laptop?
+A: He may need it later
+
+Male: You didn’t seem impressed by the performance.
+Female: It was good, but I’ve seen better from the same group.
+Q: Why wasn’t the woman very impressed?
+A: She expected more
+
+Female: Why didn’t you take the shortcut?
+Male: I tried once before, but it ended up taking longer.
+Q: Why did the man avoid the shortcut?
+A: It wasn’t actually faster
+
+Male: I thought you’d be excited about the news.
+Female: I would be, if it didn’t mean more responsibility.
+Q: Why is the woman not excited?
+A: It comes with extra work
+
+Female: You’re still using that old phone?
+Male: It’s slow, but replacing it isn’t a priority right now.
+Q: Why hasn’t the man replaced his phone?
+A: It’s not urgent
+
+Male: The restaurant looks empty.
+Female: That’s because we came earlier than most people.
+Q: Why is the restaurant empty?
+A: It’s too early
+
+Female: You didn’t ask any questions after the talk.
+Male: I was going to, but someone else asked the same thing first.
+Q: Why didn’t the man ask a question?
+A: It was already asked
